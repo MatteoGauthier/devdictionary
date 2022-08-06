@@ -1,22 +1,16 @@
 # QR Code
 
-## Specification
+## Documentation
 
 - Wikipedia : https://en.wikipedia.org/wiki/QR_code
+- Offical website : https://www.qrcode.com/en/
 
 ## Implementations
 
-<details>
-<summary>Javascript</summary>
-
-### QR Code Generator
-
-- [Symbology](https://github.com/jshor/symbology) - A Node.js module that generates barcode images. Supports 50+ different 1D or 2D symbologies in png, eps, or svg formats.
-- [qrcode-generator](https://github.com/kazuhikoarase/qrcode-generator) - An implementation of the [QR Code](https://en.wikipedia.org/wiki/QR_code) standard in Typescript, Javascript, PHP, Ruby, Python, Java and more.
-- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - Another implementation in various language.]
-
-### QR Code Scanner
-
-- [qr-scanner](https://github.com/nimiq/qr-scanner) Javascript QR Code Scanner, based on `jsqr` with many improvements.
-
-</details>
+| Language   | Name              | Description                                                                                                                                     | Docs Quality | Maintenance | Recommended | Source                                            |
+| ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------- | ----------- | ------------------------------------------------- |
+| Javascript | Symbology         | A Node.js module that generates barcode images. Supports 50+ different 1D or 2D symbologies in png, eps, or svg formats.                        |              |             | ✅          | https://github.com/jshor/symbology                |
+| Javascript | qrcode-generator  | An implementation of the [QR Code](https://en.wikipedia.org/wiki/QR_code) standard in Typescript, Javascript, PHP, Ruby, Python, Java and more. |              |             | ✅          | https://github.com/kazuhikoarase/qrcode-generator |
+| Javascript | QR-Code-generator | Another implementation in various language.                                                                                                     |              |             |             | https://github.com/nayuki/QR-Code-generator       |
+| Javascript | qr-scanner        | Another implementation in various language.                                                                                                     |              |             | ✅          | https://github.com/nimiq/qr-scanner               |
+| Java       | ZXing             | Barcode / QR Code scanning library for Java, Android                                                                                            |              |             | ✅          | https://github.com/zxing/zxing                    |
