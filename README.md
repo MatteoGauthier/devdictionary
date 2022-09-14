@@ -10,3 +10,4 @@ Sometimes I struggle to find rights libs to use, documentation, good examples fo
 ## TOC
 
 - [QR Code](/terms/qr-code.md)
+- [Toast notification UI element](/terms/toast.md)
