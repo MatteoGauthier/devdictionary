@@ -12,3 +12,4 @@ Sometimes I struggle to find rights libs to use, documentation, good examples fo
 - [QR Code](/terms/qr-code.md)
 - [Toast notification UI element](/terms/toast.md)
 - [WYSIWYG / Rich text editor](/terms/wysiwyg.md)
+- [Geographic Information System](/terms/gis.md)
